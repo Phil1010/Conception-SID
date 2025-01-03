@@ -1,0 +1,151 @@
+IDAppareil,Marque,Modele,Capacite,AnneeFabrication,Statut
+A001,Bombardier,CRJ700,198,2004,En service
+A002,Airbus,A320,62,1995,En service
+A003,Bombardier,CRJ700,444,1996,En service
+A004,Cessna,Citation X,172,2016,Maintenance
+A005,Cessna,Citation Longitude,217,1990,Maintenance
+A006,Bombardier,CRJ200,103,1997,Retiré
+A007,Boeing,767,303,2002,Retiré
+A008,Embraer,E170,169,2021,Maintenance
+A009,Bombardier,CRJ900,234,2012,Retiré
+A010,Cessna,Citation X,448,2012,Maintenance
+A011,Bombardier,CRJ900,338,2001,En service
+A012,Bombardier,CRJ700,143,2022,Maintenance
+A013,Cessna,Citation X,447,2008,Retiré
+A014,Airbus,A350,338,2023,Maintenance
+A015,Bombardier,CRJ200,366,2008,Maintenance
+A016,Boeing,767,151,2019,En service
+A017,Bombardier,CRJ900,252,2013,Retiré
+A018,Boeing,737,410,2002,Maintenance
+A019,Airbus,A320,330,1993,En service
+A020,Boeing,747,122,2005,Retiré
+A021,Airbus,A320,135,1991,Maintenance
+A022,Airbus,A330,81,2002,En service
+A023,Bombardier,CRJ700,194,1997,Maintenance
+A024,Embraer,E190,278,1997,Retiré
+A025,Bombardier,CRJ900,304,2018,Retiré
+A026,Boeing,737,206,1993,En service
+A027,Boeing,757,153,2023,En service
+A028,Bombardier,CRJ900,380,1990,Maintenance
+A029,Cessna,Citation Longitude,143,2023,Retiré
+A030,Bombardier,CRJ200,107,2002,Maintenance
+A031,Airbus,A380,239,2009,En service
+A032,Embraer,E195,116,2002,Maintenance
+A033,Boeing,777,378,2020,En service
+A034,Embraer,E170,315,1999,Maintenance
+A035,Cessna,Citation Latitude,271,2001,Retiré
+A036,Embraer,E195,157,2011,Retiré
+A037,Cessna,Citation Longitude,257,2017,En service
+A038,Cessna,Citation Latitude,363,2005,En service
+A039,Airbus,A350,243,2001,Retiré
+A040,Embraer,E190,272,1999,En service
+A041,Bombardier,CRJ900,56,1996,Maintenance
+A042,Embraer,E190,349,2002,Maintenance
+A043,Cessna,Citation Latitude,126,2021,Maintenance
+A044,Boeing,767,375,2012,Maintenance
+A045,Airbus,A380,82,1997,Maintenance
+A046,Embraer,E170,374,2023,En service
+A047,Airbus,A380,83,2008,Retiré
+A048,Boeing,747,430,2017,Maintenance
+A049,Boeing,777,137,2012,Retiré
+A050,Embraer,E195,335,1994,Maintenance
+A051,Boeing,757,377,2007,Maintenance
+A052,Cessna,Citation X,351,2014,Maintenance
+A053,Airbus,A330,171,2020,En service
+A054,Bombardier,CRJ200,113,1995,Retiré
+A055,Cessna,Citation Latitude,118,2000,Retiré
+A056,Boeing,777,138,2022,En service
+A057,Cessna,Citation Longitude,229,2015,Maintenance
+A058,Bombardier,CRJ200,417,1995,Retiré
+A059,Boeing,757,332,2016,Retiré
+A060,Bombardier,CRJ200,409,1997,Maintenance
+A061,Cessna,Citation X,131,2022,Retiré
+A062,Bombardier,CRJ700,251,2018,Maintenance
+A063,Cessna,Citation X,70,2006,Maintenance
+A064,Cessna,Citation Longitude,91,2009,En service
+A065,Cessna,Citation Longitude,362,2001,Maintenance
+A066,Cessna,Citation X,187,1992,En service
+A067,Cessna,Citation Longitude,286,2015,En service
+A068,Boeing,787,218,2022,En service
+A069,Boeing,757,355,1994,Retiré
+A070,Boeing,747,341,2009,En service
+A071,Embraer,E170,105,2003,Retiré
+A072,Bombardier,CRJ700,157,1990,Maintenance
+A073,Embraer,E170,90,1999,Retiré
+A074,Embraer,E190,209,2016,Maintenance
+A075,Embraer,E190,386,2000,En service
+A076,Boeing,787,162,1994,Maintenance
+A077,Boeing,757,356,2000,En service
+A078,Cessna,Citation Longitude,340,2016,Maintenance
+A079,Boeing,767,447,2004,Retiré
+A080,Cessna,Citation X,442,2014,Maintenance
+A081,Embraer,E190,58,1994,Maintenance
+A082,Boeing,737,206,1997,Retiré
+A083,Boeing,767,140,1992,Retiré
+A084,Boeing,767,146,1997,Retiré
+A085,Bombardier,CRJ200,156,2008,Retiré
+A086,Boeing,767,136,1992,Maintenance
+A087,Bombardier,CRJ700,247,1991,En service
+A088,Cessna,Citation X,266,2006,Maintenance
+A089,Cessna,Citation Longitude,447,2003,Retiré
+A090,Cessna,Citation X,439,2017,En service
+A091,Embraer,E170,380,1995,En service
+A092,Cessna,Citation Longitude,121,2022,En service
+A093,Embraer,E190,210,2003,Maintenance
+A094,Cessna,Citation X,232,1991,Retiré
+A095,Cessna,Citation X,444,2007,En service
+A096,Bombardier,CRJ200,291,2022,Retiré
+A097,Embraer,E195,73,2009,Maintenance
+A098,Boeing,737,259,1998,En service
+A099,Embraer,E190,254,2016,Maintenance
+A100,Boeing,787,69,2000,En service
+A101,Boeing,767,67,2020,Retiré
+A102,Cessna,Citation Longitude,447,1991,Maintenance
+A103,Bombardier,CRJ700,229,1999,Retiré
+A104,Embraer,E195,317,2007,Maintenance
+A105,Bombardier,CRJ900,76,1998,Retiré
+A106,Embraer,E195,357,2014,Maintenance
+A107,Bombardier,CRJ700,168,1998,Retiré
+A108,Cessna,Citation Longitude,211,2002,Maintenance
+A109,Boeing,757,57,2008,En service
+A110,Embraer,E195,303,2005,En service
+A111,Embraer,E190,448,1996,En service
+A112,Cessna,Citation Latitude,242,2020,En service
+A113,Bombardier,CRJ200,329,2019,Retiré
+A114,Embraer,E190,54,1992,Maintenance
+A115,Bombardier,CRJ200,434,2012,En service
+A116,Cessna,Citation Longitude,161,1995,En service
+A117,Embraer,E170,218,2000,Maintenance
+A118,Airbus,A340,171,1991,En service
+A119,Airbus,A320,423,2019,Retiré
+A120,Airbus,A320,57,2013,Retiré
+A121,Embraer,E190,79,2014,Retiré
+A122,Embraer,E195,110,1992,En service
+A123,Airbus,A340,353,2023,Retiré
+A124,Airbus,A330,121,1994,En service
+A125,Cessna,Citation X,57,1996,En service
+A126,Embraer,E190,368,2004,Retiré
+A127,Bombardier,CRJ700,240,1990,En service
+A128,Bombardier,CRJ900,448,2008,En service
+A129,Cessna,Citation X,357,1995,En service
+A130,Airbus,A330,122,2022,Retiré
+A131,Cessna,Citation Longitude,254,2020,En service
+A132,Bombardier,CRJ200,421,2014,Retiré
+A133,Boeing,737,140,2007,Retiré
+A134,Airbus,A330,227,1990,Retiré
+A135,Embraer,E170,399,1994,Maintenance
+A136,Embraer,E190,86,2020,Maintenance
+A137,Bombardier,CRJ700,165,2023,Maintenance
+A138,Cessna,Citation X,62,2005,Retiré
+A139,Cessna,Citation X,313,2013,Maintenance
+A140,Cessna,Citation Longitude,414,1993,Maintenance
+A141,Cessna,Citation X,119,2022,En service
+A142,Airbus,A350,148,2020,En service
+A143,Embraer,E190,372,1993,En service
+A144,Boeing,787,405,1991,En service
+A145,Bombardier,CRJ200,390,2014,Maintenance
+A146,Bombardier,CRJ200,386,2007,Retiré
+A147,Airbus,A320,129,2017,Maintenance
+A148,Bombardier,CRJ900,292,2007,En service
+A149,Cessna,Citation Latitude,76,1990,En service
+A150,Bombardier,CRJ200,428,2020,Maintenance
