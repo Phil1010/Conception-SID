@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_gxNWQM3XEe-XBtQXtCRsrA" name="CanalVisiteur" dataPackage="_gxNWQc3XEe-XBtQXtCRsrA" Server="Localhost 127.0.0.1" FilePath="C:/Users/Harout/Documents/Cours M2/Conception SID/Projet/Data/canalVisiteur.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_gxNWQc3XEe-XBtQXtCRsrA" name="default" dataManager="_gxNWQM3XEe-XBtQXtCRsrA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_gxNWQs3XEe-XBtQXtCRsrA" id="_WbDawM3XEe-XBtQXtCRsrA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gxNWQ83XEe-XBtQXtCRsrA" label="idCanalVisiteur" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gxNWRM3XEe-XBtQXtCRsrA" label="idCanal" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gxNWRc3XEe-XBtQXtCRsrA" label="idVisiteurs" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

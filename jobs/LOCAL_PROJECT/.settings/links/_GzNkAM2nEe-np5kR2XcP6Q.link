@@ -1,0 +1,32 @@
+{
+  "itemId" : "_GzNkAM2nEe-np5kR2XcP6Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_ygXy8M4UEe-XBtQXtCRsrA",
+    "parameterList" : [ {
+      "id" : "_ygkAN84UEe-XBtQXtCRsrA",
+      "name" : "AIRLINE_AdditionalParams"
+    }, {
+      "id" : "_ygkANM4UEe-XBtQXtCRsrA",
+      "name" : "AIRLINE_Login"
+    }, {
+      "id" : "_ygkANc4UEe-XBtQXtCRsrA",
+      "name" : "AIRLINE_Password"
+    }, {
+      "id" : "_ygkAMs4UEe-XBtQXtCRsrA",
+      "name" : "AIRLINE_Port"
+    }, {
+      "id" : "_ygkAMc4UEe-XBtQXtCRsrA",
+      "name" : "AIRLINE_Schema"
+    }, {
+      "id" : "_ygkAM84UEe-XBtQXtCRsrA",
+      "name" : "AIRLINE_Server"
+    }, {
+      "id" : "_ygkANs4UEe-XBtQXtCRsrA",
+      "name" : "AIRLINE_Sid"
+    }, {
+      "id" : "_CKSikM4fEe-r48y_sAfe2A",
+      "name" : "source_path"
+    } ]
+  } ]
+}

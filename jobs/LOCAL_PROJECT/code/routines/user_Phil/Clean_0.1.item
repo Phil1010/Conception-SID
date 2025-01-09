@@ -1,0 +1,46 @@
+package routines;
+
+public class Clean {
+
+	/*************************************************************/
+
+	public static String nettoie(String mot)
+	{
+	if (mot!= null)
+	{
+	String chaineOK = "azertyuiopqsdfghjklmwxcvbnAZERTYUIOPQSDFGHJKLMWXCVBN0123456789 ";
+
+	mot = mot.replaceAll("[ÀÁÂÃÄÅ]", "A");
+	mot = mot.replace("Ç", "C");
+	mot = mot.replaceAll("[ÈÉÊË]", "E");
+	mot = mot.replaceAll("[ÌÍÎÏ]", "I");
+	mot = mot.replaceAll("[ÒÓÔÕÖ]", "O");
+	mot = mot.replaceAll("[ÙÚÛÜ]", "U");
+	mot = mot.replace("Ý", "Y");
+	mot = mot.replaceAll("[àáâãäå]", "a");
+	mot = mot.replace("ç", "c");
+	mot = mot.replaceAll("[èéêë]", "e");
+	mot = mot.replaceAll("[ìíîï]", "i");
+	mot = mot.replaceAll("[ðòóôõö]", "o");
+	mot = mot.replaceAll("[ùúûü]", "u");
+	mot = mot.replaceAll("[ýÿ]", "y");
+	//mot = mot.replaceAll("[/_/'/-//]", "KKKK");
+	mot = mot.replaceAll("[_'-/]", " ");
+	for (int i=0; i<mot.length(); i++)
+	{
+	boolean trouve = true;
+	for (int j=0; j<chaineOK.length(); j++)
+	{
+	if (mot.charAt(i) == chaineOK.charAt(j))trouve = false;
+	}
+	if (trouve) mot = mot.replace(mot.charAt(i), '_');
+	}
+
+	}
+	return mot;
+	}
+
+	/********************************************/
+
+
+}

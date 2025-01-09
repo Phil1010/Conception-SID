@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_HM1usM3YEe-XBtQXtCRsrA" name="Miles" dataPackage="_HM1usc3YEe-XBtQXtCRsrA" Server="Localhost 127.0.0.1" FilePath="C:/Users/Harout/Documents/Cours M2/Conception SID/Projet/Data/miles.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_HM1usc3YEe-XBtQXtCRsrA" name="default" dataManager="_HM1usM3YEe-XBtQXtCRsrA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_HM1uss3YEe-XBtQXtCRsrA" id="_BZU38M3YEe-XBtQXtCRsrA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HM1us83YEe-XBtQXtCRsrA" label="id_miles" length="2" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HM1utM3YEe-XBtQXtCRsrA" label="id_participant" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HM1utc3YEe-XBtQXtCRsrA" label="id_vol" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HM1uts3YEe-XBtQXtCRsrA" label="miles_calcule" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
