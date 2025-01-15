@@ -1,0 +1,7 @@
+moment;pid;root_pid;father_pid;project;job;context;priority;type;origin;message;code
+2025-01-12 21:47:21;CXCDzz;CXCDzz;CXCDzz;LOCAL_PROJECT;STG_Load;Default;4;tWarn;tWarn_1;this is a warning;42
+2025-01-12 21:48:21;CXCDzz;CXCDzz;CXCDzz;LOCAL_PROJECT;STG_Load;Default;6;Java Exception;tRunJob_1;java.lang.RuntimeException:Child job running failed.
+;1
+2025-01-13 11:42:48;MbQsG5;MbQsG5;MbQsG5;LOCAL_PROJECT;STG_Load;Default;4;tWarn;tWarn_1;this is a warning;42
+2025-01-13 12:43:01;pXGQ8l;pXGQ8l;pXGQ8l;LOCAL_PROJECT;STG_Load;Default;4;tWarn;tWarn_1;this is a warning;42
+2025-01-13 14:04:32;lMiPIA;vxTERJ;vxTERJ;LOCAL_PROJECT;STG_Load;Default;4;tWarn;tWarn_1;this is a warning;42
